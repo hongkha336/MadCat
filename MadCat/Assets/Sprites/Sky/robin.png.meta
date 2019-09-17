@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: a3765b465729a2f4c9a668b59be96d9b
+timeCreated: 1534873687
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: robin_0
+    21300002: robin_1
+    21300004: robin_2
+    21300006: robin_3
+    21300008: robin_4
+    21300010: robin_5
+    21300012: robin_6
+    21300014: robin_7
+    21300016: robin_8
+    21300018: robin_9
+    21300020: robin_10
+    21300022: robin_11
+    21300024: robin_12
+    21300026: robin_13
+    21300028: robin_14
+    21300030: robin_15
+    21300032: robin_16
+    21300034: robin_17
+    21300036: robin_18
+    21300038: robin_19
+    21300040: robin_20
+    21300042: robin_21
+    21300044: robin_22
+    21300046: robin_23
+    21300048: robin_24
+    21300050: robin_25
+    21300052: robin_26
+    21300054: robin_27
+    21300056: robin_28
+    21300058: robin_29
+    21300060: robin_30
+    21300062: robin_31
+    21300064: robin_32
+    21300066: robin_33
+    21300068: robin_34
+    21300070: robin_35
+    21300072: robin_36
+    21300074: robin_37
+    21300076: robin_38
+    21300078: robin_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robin_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1271
+        width: 194
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1274
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1274
+        width: 208
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1290
+        width: 203
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_4
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1297
+        width: 190
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1040
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1050
+        width: 203
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1059
+        width: 201
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1045
+        width: 169
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_9
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1054
+        width: 195
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 747
+        width: 196
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 749
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 745
+        width: 174
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 744
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_14
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 738
+        width: 192
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 428
+        width: 198
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 426
+        width: 205
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 405
+        width: 175
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_18
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 370
+        width: 201
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_19
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 340
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 204
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robin_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 26
+        width: 203
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

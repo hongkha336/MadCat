@@ -1,0 +1,62 @@
+D:\UNITY\MadCat\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UNITY\MadCat\Temp\bin\Debug\nunit.framework.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEditor.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.VR.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Mono.Cecil.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Unity.DataContract.dll
+D:\UNITY\MadCat\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UNITY\MadCat\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.xml
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEditor.xml
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\UNITY\MadCat\Temp\bin\Debug\nunit.framework.xml
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\UNITY\MadCat\Temp\bin\Debug\UnityEngine.VR.xml
+D:\UNITY\MadCat\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UNITY\MadCat\obj\Debug\Assembly-CSharp.dll
+D:\UNITY\MadCat\obj\Debug\Assembly-CSharp.pdb
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Assembly-CSharp.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\nunit.framework.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEditor.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.UI.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.VR.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Mono.Cecil.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Unity.DataContract.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Unity.CecilTools.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEditor.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.UI.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\nunit.framework.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\TU HOC UNITY\MadCat\Temp\bin\Debug\UnityEngine.VR.xml
+D:\TU HOC UNITY\MadCat\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\TU HOC UNITY\MadCat\obj\Debug\Assembly-CSharp.dll
+D:\TU HOC UNITY\MadCat\obj\Debug\Assembly-CSharp.pdb
